@@ -9,4 +9,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IttsmeNightfall&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
