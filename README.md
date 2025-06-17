@@ -9,19 +9,17 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
 
 
-<p>
+<div style="display: flex; gap: 10px;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=IttsmeNightfall&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
   />
-
+  
   <img 
-    align="left" 
     alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttsmeNightfall&layout=compact&theme=transparent&langs_count=9" 
   />
-</p>
+</div>
+
