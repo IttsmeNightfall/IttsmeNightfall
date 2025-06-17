@@ -1,4 +1,4 @@
-<h2>Eae! Me chamo Luiz Fernando, também conhecido como Nightfall!</h2>
+<h2>Eae! Me chamo Luiz Fernando</h2>
 
 <h3>Contato/Sobre mim</h3>
 
@@ -9,17 +9,20 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
 
 
-<div style="display: flex; gap: 10px;">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=IttsmeNightfall&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
   />
-  
+
   <img 
+    align="left" 
     alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttsmeNightfall&layout=compact&theme=transparent&langs_count=9" 
   />
-</div>
+</p>
 
