@@ -1,15 +1,13 @@
-<h1 align="center">👋 Eae! Eu sou o <strong style="color:white;">IttsmeNightfall</strong></h1>
+<h1>👋 Eae! Eu sou <strong style="color:white;">Luiz Fernando</strong></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=UI/UX+Designer+%7C+Dev+Frontend;Editor+de+V%C3%ADdeo+%7C+Criador+de+Conte%C3%BAdo;Bem-vindo+ao+meu+universo+criativo!" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=UI%2FUX+Designer+%7C+Dev+Frontend;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 
 ---
 
 ### Sobre mim
 
 - 🎨 Designer gráfico 
-- 💻 Desenvolvendo projetos próprios e acadêmicos com foco em design, web e vídeo  
+- 💻 Desenvolvendo projetos próprios e acadêmicos com foco em design, web e vídeo 
 - 🎥 Editor na Oni Cat Prod — produtora de vídeos autorais  
 - 📚 Estudante do IFRN | Curso técnico em informática  
 - 📍 Baseado em Natal/RN, Brasil  
@@ -29,13 +27,12 @@
 
 ### 📈 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=IttsmeNightfall&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttsmeNightfall&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" width="358" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttsmeNightfall&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" />
-</div>
 
 ---
 
