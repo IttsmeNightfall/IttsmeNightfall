@@ -1,4 +1,4 @@
-<h2>Eae! Me chamo Luiz Fernando, mas também sou conhecido como <strong>g>Nightfall</stron </h2>
+<h2>Eae! Me chamo Luiz Fernando, mas também sou conhecido como <strong>Nightfall</strong> </h2>
 
 <h3>Contato/Sobre mim</h3>
 
